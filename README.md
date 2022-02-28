@@ -1,6 +1,4 @@
-### hinadori_doc
-
-hinadoriのドキュメント
+### hinadori
 
 ```markdown
 ・ ひな鳥の実行ファイル
